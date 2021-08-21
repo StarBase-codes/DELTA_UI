@@ -1,11 +1,17 @@
 # DELTA_UI
 
 PROJECT: DELTA UI
+
 BY: Oo
+
 COMPANY: io
+
 V: 1.1
+
 LIC: FREE if you leave in the credit
+
 $: Any IN-GAME donations are welcome
+
 https://gist.github.com/johnpenny/6b1632204244df89d94de36c3a0bf203
 
 ---------------------------------------------------------------------------
